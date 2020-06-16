@@ -1,0 +1,1 @@
+Шпаргалка по numpy и pandas version 0.0.5
